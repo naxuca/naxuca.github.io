@@ -1,0 +1,9 @@
+body{
+    height: 5000px;
+}
+#navbarNav{
+    margin-left: 75%;
+}
+.nav-item{
+    color: red;
+}
